@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mailgun/mailgun-go/v4"
+	"github.com/ryanlelek/mailgun-go/v4"
 
 	"github.com/facebookgo/ensure"
 )

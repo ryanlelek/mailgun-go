@@ -6,7 +6,7 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/mailgun/mailgun-go/v4/events"
+	"github.com/ryanlelek/mailgun-go/v4/events"
 )
 
 // All events returned by the EventIterator conform to this interface

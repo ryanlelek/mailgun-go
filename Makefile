@@ -1,7 +1,7 @@
 .PHONY: all
 .DEFAULT_GOAL := all
 
-PACKAGE := github.com/mailgun/mailgun-go
+PACKAGE := github.com/ryanlelek/mailgun-go
 
 all:
 	export GO111MODULE=on; go test . -v
